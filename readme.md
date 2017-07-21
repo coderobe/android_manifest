@@ -41,7 +41,7 @@ $ cd WORKSPACE
 
 # Install Repo in the created directory
 # Use a real name/email combination, if you intend to submit patches
-$ repo init -u https://github.com/coderobe/android_paranoid_manifest -b master
+$ repo init -u https://github.com/coderobe/android_manifest -b master
 ```
 
 ### Downloading the source tree ###
