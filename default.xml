@@ -39,6 +39,15 @@
   <project groups="pdk-cw-fs,pdk-fs" name="device/common"/>
   <project groups="pdk" name="device/generic/arm64"/>
   <project groups="pdk" name="device/generic/armv7-a-neon"/>
+  <project groups="pdk" name="device/generic/goldfish"/>
+  <project groups="pdk" name="device/generic/goldfish-opengl"/>
+  <project groups="pdk" name="device/generic/mini-emulator-arm64"/>
+  <project groups="pdk" name="device/generic/mini-emulator-armv7-a-neon"/>
+  <project groups="pdk" name="device/generic/mini-emulator-x86"/>
+  <project groups="pdk" name="device/generic/mini-emulator-x86_64"/>
+  <project groups="pdk" name="device/generic/qemu"/>
+  <project groups="pdk" name="device/generic/x86"/>
+  <project groups="pdk" name="device/generic/x86_64"/>
   <project groups="pdk" name="device/generic/common"/>
   <project groups="device,pdk" name="device/google/accessory/arduino"/>
   <project groups="device,pdk" name="device/google/accessory/demokit"/>
