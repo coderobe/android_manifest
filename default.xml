@@ -32,20 +32,14 @@
            sync-j="4"
            sync-c="true"/>
 
+  <project name="coderobe/android_device_lenovo_p2a42" path="device/lenovo/p2a42" remote="github" revision="master"/>
+  <project name="Wzedlare/android_vendor_lenovo_p2a42" path="vendor/lenovo/p2a42" remote="github" revision="cm-14.1"/>
+  <project name="Wzedlare/android_kernel_lenovo_msm8953" path="kernel/lenovo/msm8953" remote="github" revision="cm-14.1"/>
   <project name="abl/tianocore/edk2" path="bootable/bootloader/edk2"/>
   <project groups="pdk-cw-fs,pdk-fs" name="device/common"/>
   <project groups="pdk" name="device/generic/arm64"/>
   <project groups="pdk" name="device/generic/armv7-a-neon"/>
   <project groups="pdk" name="device/generic/common"/>
-  <project groups="pdk" name="device/generic/goldfish"/>
-  <project groups="pdk" name="device/generic/goldfish-opengl"/>
-  <project groups="pdk" name="device/generic/mini-emulator-arm64"/>
-  <project groups="pdk" name="device/generic/mini-emulator-armv7-a-neon"/>
-  <project groups="pdk" name="device/generic/mini-emulator-x86"/>
-  <project groups="pdk" name="device/generic/mini-emulator-x86_64"/>
-  <project groups="pdk" name="device/generic/qemu"/>
-  <project groups="pdk" name="device/generic/x86"/>
-  <project groups="pdk" name="device/generic/x86_64"/>
   <project groups="device,pdk" name="device/google/accessory/arduino"/>
   <project groups="device,pdk" name="device/google/accessory/demokit"/>
   <project groups="device,fugu,broadcom_pdk,generic_fs,pdk" name="device/google/atv"/>
