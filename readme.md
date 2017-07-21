@@ -1,4 +1,4 @@
-# Paranoid Android #
+# Paranoid Android (coderobe flavor) #
 
 ## Setting up your machine ##
 
@@ -41,7 +41,7 @@ $ cd WORKSPACE
 
 # Install Repo in the created directory
 # Use a real name/email combination, if you intend to submit patches
-$ repo init -u https://github.com/AOSPA/manifest -b nougat-mr2
+$ repo init -u https://github.com/coderobe/android_paranoid_manifest -b master
 ```
 
 ### Downloading the source tree ###
