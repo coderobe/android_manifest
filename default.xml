@@ -35,6 +35,7 @@
   <project name="coderobe/android_device_lenovo_p2a42" path="device/lenovo/p2a42" remote="github" revision="master"/>
   <project name="Wzedlare/android_vendor_lenovo_p2a42" path="vendor/lenovo/p2a42" remote="github" revision="cm-14.1"/>
   <project name="Wzedlare/android_kernel_lenovo_msm8953" path="kernel/lenovo/msm8953" remote="github" revision="cm-14.1"/>
+  <project name="coderobe/android_frameworks_native" path="frameworks/native" remote="github" revision="nougat-mr2"/>
   <project name="abl/tianocore/edk2" path="bootable/bootloader/edk2"/>
   <project groups="pdk-cw-fs,pdk-fs" name="device/common"/>
   <project groups="pdk" name="device/generic/arm64"/>
